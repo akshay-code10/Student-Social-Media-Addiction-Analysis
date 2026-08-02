@@ -166,15 +166,9 @@ Individual student profile displaying:
 
 ---
 
-## 📁 Files Included
+📷 Dashboard Preview
 
-📄 Power BI Dashboard (.pbix)
 
-📄 Dataset (Excel)
-
-📄 Dashboard Screenshots
-
-📄 Project Documentation
 
 ---
 
