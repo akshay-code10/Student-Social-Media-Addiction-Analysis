@@ -166,12 +166,6 @@ Individual student profile displaying:
 
 ---
 
-📷 Dashboard Preview
-
-
-
----
-
 ## 👨‍💻 Author
 
 **Akshay**
